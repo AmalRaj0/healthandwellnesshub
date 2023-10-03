@@ -1,0 +1,43 @@
+header ul li{
+    padding-right:30px ;
+    margin-top:60px ;
+    
+}
+header{
+    background-color: #44436C;
+    color: white;
+    /* padding:30px ; */
+}
+.row img{
+    border-radius: 50%;
+    transition: all 2s;
+}
+@media img{
+
+}
+#overlay{
+    position:absolute;
+    top:5900px;
+    left:35%;
+    color: aliceblue;
+}
+#overlay2{
+    position:absolute;
+    bottom:4px ;
+    top:850px ;
+    left: 38%;
+    color: white;
+    font-size: x-large;
+    
+}
+#overlay3{
+    position:absolute ;
+    top:6600px;
+    left:33%;
+    color: white;
+}
+*{
+    margin:0px ;
+    padding:0px ;
+    margin-right:0px ;
+}
